@@ -1,0 +1,5 @@
+browser-use
+gspread
+python-dotenv
+pandas
+openpyxl
